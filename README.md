@@ -1,0 +1,2 @@
+# NYCParkingViolation-DatabaseProject-Mysql-Tableau
+## -	This project provided an opportunity for NYC government to identify trends in parking violations. By determining key factors associated with violations, the city would be able to optimize revenue. Additionally, identifying areas and times where parking violations are common could allow the city to determine where parking rules are not adequately communicated. 
